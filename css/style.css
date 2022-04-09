@@ -1,0 +1,52 @@
+body{
+   background: url(../img/Karen\ y\ yo.jpg);
+    text-align: center;
+    margin-top: 100px;
+
+    
+}
+
+h1{
+    color: #39cc1c;
+    font-size: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+h2{
+    text-align: right;
+    color: #d60b0b;
+}
+p{
+    color: #d3cfcf;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    margin: 50px;
+    padding: 12px 40px;
+    background: #3c7918;
+    color:#ffffff;
+    border: 3px solid #ffffff;
+    border-radius: 20px; /*border-radius genera un borde redondeado*/
+    font-weight: 700;
+    transition: .5s;
+}
+h3{
+    text-align: right;
+    color: #09aa59;
+    
+}
+h4{
+    text-align: right;
+    color: #09ffd6;
+
+
+
+}
